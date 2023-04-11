@@ -8,7 +8,7 @@
 
 import React, { Component } from 'react';
 import {
-  LogBox,
+  LogBox, 
   View
 } from 'react-native';
 import SplashScreen from 'react-native-splash-screen'
